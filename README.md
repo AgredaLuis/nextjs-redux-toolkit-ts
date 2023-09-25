@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+#Nextjs-Redux-Toolkit-ts
+
+Pagina de Nextjs usando redux toolkit para mnanejar estados globales y haces queary a una bdd, de modo template para solo modificar 
+
+Base de Datos usada: jasonplaceholder.com
+
+
+
 ## Getting Started
 
 First, run the development server:
